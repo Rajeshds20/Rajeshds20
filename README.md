@@ -26,7 +26,7 @@
 <a href="https://scikit-learn.org/"><code><img height="40" width="40" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code></a>
 <a href="https://tensorflow.org"><code><img height="40" width="40" src="https://www.tensorflow.org/images/tf_logo_transp.png"></code></a>
 <a href="https://mysql.com"><code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code></a>
-<a href="https://tensorflow.org"><code><img height="40" width="40" src="https://www.tensorflow.org/images/tf_logo_transp.png"></code></a>
+<a href="https://matplotlib.org"><code><img height="40" width="40" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png"></code></a>
 
 
 

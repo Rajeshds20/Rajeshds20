@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on Android Development
 - 📫 How to reach me - dsrajesh71@gmail.com
 
-## 🌐 Social Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devangamsajjarajesh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rajeshds55) 
 
 **𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒**
 <br/>
@@ -45,6 +43,54 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=rajeshds20&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Sagar0-0)
 <br>
 
+<!-- connect section -->
+<h1 align="center">
+𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="GIF/Handshake.gif" width="24px">
+</h1>
+
+<p align="center">
+  <br>
+  <a href="https://www.youtube.com/channel/UCbXjqGX2O0UW12AIboO2Psw" target="_blank">
+    <code><img  height="45" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/youtube-icon-logo.png"></code>
+  </a>
+  <a href="mailto:darajesh71@gmail.com" target="_blank">
+    <code><img height="46" width="52" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></code>
+  </a>
+  <a href="https://twitter.com/rajeshds55" target="_blank">
+    <code><img height="50" width="50" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"></code>
+  </a>
+  <a href="https://www.linkedin.com/in/devangamsajjarajesh" target="_blank">
+    <code><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></code>
+  </a>
+  <a href="https://www.instagram.com/rajeshds20/" target="_blank">
+    <code><img height="50" width="50" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"></code>
+  </a>
+</p>
+<br/>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/dsrajesh71" target="_blank">
+    <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"/></code>
+  </a>
+
+  <a href="https://www.codechef.com/users/rajeshds" target="_blank">
+    <code><img height="50" width="50" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png"/></code>
+  </a>
+  
+  <a href="https://leetcode.com/dsrajesh71/" target="_blank">
+    <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></code>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/rajeshds/" target="_blank">
+    <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png"/></code>
+  </a>
+  <!--<a href="https://stackoverflow.com/users/" target="_blank">
+    <code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/></code>
+  </a>-->
+</p>
+
+<br/>
+
+<hr>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rajeshds20&icon=8&color=1)](https://visitcount.itsvg.in)

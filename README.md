@@ -16,10 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshds20&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajeshds20&theme=oldie&no-frame=true&no-bg=false&margin-w=4)
-
-
-
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=rajeshds20&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Sagar0-0)
 <br>
 

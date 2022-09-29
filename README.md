@@ -14,10 +14,9 @@
 <a href="https://java.com/"><code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code></a>
 <a href="https://python.org/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
 <a href="https://firebase.google.com/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code></a>
-<a href="https://github.com"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code></a>
 <a href="https://mysql.com/"><code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code></a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code></a>
 <a href="https://programiz.com/c-programming"><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code></a>
 <a href="https://programiz.com/cpp-programming"><code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code></a>
@@ -25,6 +24,8 @@
 <a href="https://developer.android.con/studio"><code><img height="40" width="40" src="https://www.bing.com/th?id=AMMS_4dda58ba996776e9808695cd828b236a&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&o=6&cdv=1&dpr=1.12&pid=16.1"></code></a>
 
 <a href="https://scikit-learn.org/"><code><img height="40" width="40" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code></a>
+<a href="https://tensorflow.org"><code><img height="40" width="40" src="https://www.tensorflow.org/images/tf_logo_transp.png"></code></a>
+<a href="https://mysql.com"><code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code></a>
 <a href="https://tensorflow.org"><code><img height="40" width="40" src="https://www.tensorflow.org/images/tf_logo_transp.png"></code></a>
 
 

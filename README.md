@@ -21,13 +21,13 @@
 <a href="https://python.org/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
 <a href="https://firebase.google.com/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code></a>
 <a href="https://github.com"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code></a>
-<a href="https://mysql.com/"><code><img height="40" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png](https://www.mysql.com/)"></code></a>
+<a href="https://mysql.com/"><code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></code></a>
 #
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code></a>
 <a href="https://programiz.com/c-programming"><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code></a>
 <a href="https://programiz.com/cpp-programming"><code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code></a>
-<a href="https://git-scm.com/"><code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code></a>
+
 <a href="https://jupyter.org/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code></a>
 
 <br/>

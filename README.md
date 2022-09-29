@@ -18,6 +18,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rajeshds20&theme=oldie&no-frame=true&no-bg=false&margin-w=4)
 
+
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=rajeshds20&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/Sagar0-0)
+<br>
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=rajeshds20&icon=8&color=1)](https://visitcount.itsvg.in)
 

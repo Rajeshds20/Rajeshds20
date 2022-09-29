@@ -27,6 +27,7 @@
 <a href="https://tensorflow.org"><code><img height="40" width="40" src="https://www.tensorflow.org/images/tf_logo_transp.png"></code></a>
 <a href="https://mysql.com"><code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code></a>
 <a href="https://matplotlib.org"><code><img height="40" width="40" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png"></code></a>
+<a href="https://pandas.pydata.org"><code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png?20200209204934"></code></a>
 
 
 

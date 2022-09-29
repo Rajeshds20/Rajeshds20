@@ -26,8 +26,9 @@
 <a href="https://scikit-learn.org/"><code><img height="40" width="40" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code></a>
 <a href="https://tensorflow.org"><code><img height="40" width="40" src="https://www.tensorflow.org/images/tf_logo_transp.png"></code></a>
 <a href="https://mysql.com"><code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code></a>
-<a href="https://matplotlib.org"><code><img height="40" width="40" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png"></code></a>
+<a href="https://matplotlib.org"><code><img height="40" width="40" src="https://www.bing.com/th?id=OSK.bcae16e4d22506fefc9cbcb0b4d270ae&w=120&h=120&c=7&rs=1&qlt=80&o=6&dpr=1.12&pid=SANGAM"></code></a>
 <a href="https://pandas.pydata.org"><code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png?20200209204934"></code></a>
+<a href="https://numpy.org"><code><img height="40" width="40" src="https://user-images.githubusercontent.com/50221806/86498222-c4c12800-bd39-11ea-9709-160ad4ba63e1.png"></code></a>
 
 
 

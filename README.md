@@ -27,10 +27,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code></a>
 <a href="https://programiz.com/c-programming"><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code></a>
 <a href="https://programiz.com/cpp-programming"><code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code></a>
-
 <a href="https://jupyter.org/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code></a>
-
-<br/>
 
 
 

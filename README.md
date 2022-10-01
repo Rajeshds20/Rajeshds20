@@ -22,7 +22,7 @@
 <a href="https://programiz.com/c-programming"><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code></a>
 <a href="https://programiz.com/cpp-programming"><code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code></a>
 <a href="https://jupyter.org/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code></a>
-<a href="https://developer.android.con/studio"><code><img height="40" width="40" src="https://www.bing.com/th?id=AMMS_4dda58ba996776e9808695cd828b236a&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&o=6&cdv=1&dpr=1.12&pid=16.1"></code></a>
+<a href="https://developer.android.com/studio/"><code><img height="40" width="40" src="https://www.bing.com/th?id=AMMS_4dda58ba996776e9808695cd828b236a&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&o=6&cdv=1&dpr=1.12&pid=16.1"></code></a>
 <a href="https://code.visualstudio.com"><code><img height="40" width="40" src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png"></code></a>
 <a href="https://flutter.dev"><code><img height="40" width="40" src="https://iconape.com/wp-content/png_logo_vector/flutter.png"></code></a>
 

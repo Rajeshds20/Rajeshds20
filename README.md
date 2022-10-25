@@ -90,7 +90,7 @@
   </a>-->
   </a>
   <a href="https://g.dev/rajeshds" target="_blank">
-    <code><img height="50" width="50" src="https://yt3.ggpht.com/a/AATXAJzoSeUSM8vM0nr9MXfkArK1Sq_fSg0uzmnXZQ=s900-c-k-c0xffffffff-no-rj-mo"/></code>
+    <code><img height="50" width="50" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/dsclogo_0kDGxf5.png"/></code>
   </a>
 </p>
 

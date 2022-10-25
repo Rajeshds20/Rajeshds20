@@ -47,7 +47,7 @@
 
 <!-- connect section -->
 <h1 align="center">
-𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 <img src="GIF/Handshake.gif" width="24px">
+𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭
 </h1>
 
 <p align="center">

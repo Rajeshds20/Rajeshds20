@@ -52,9 +52,9 @@
 
 <p align="center">
   <br>
-  <a href="https://www.youtube.com/channel/">
+  <!--<a href="https://www.youtube.com/channel/">
     <code><img  height="45" width="50" src="https://brandslogos.com/wp-content/uploads/images/large/youtube-icon-logo.png"></code>
-  </a>
+  </a>-->
   <a href="mailto:darajesh71@gmail.com" target="_blank">
     <code><img height="46" width="52" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></code>
   </a>

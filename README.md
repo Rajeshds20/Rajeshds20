@@ -11,10 +11,10 @@
 <br/>
 <a href="https://developer.android.com/"><code><img height="40" width="40" src="https://th.bing.com/th/id/R.29a2655fc28970d306e34a3a09639c5d?rik=AZ%2bypycrvk86Eg&riu=http%3a%2f%2fpngimg.com%2fuploads%2fandroid_logo%2fandroid_logo_PNG27.png&ehk=bfjboxpdYpOos3mkfOEcyBrCguPtJTdJ8%2f150RXZU%2b8%3d&risl=&pid=ImgRaw&r=0"></code></a>
 <a href="https://java.com/"><code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code></a>
-<a href="https://python.org/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
-<a href="https://firebase.google.com/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code></a>
+<a href="https://python.org/"><code><img height="40" width="40" src="https://sdlctraining.in/wp-content/uploads/2021/02/python-logo-980x980.png"></code></a>
+<a href="https://firebase.google.com/"><code><img height="40" width="40" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png"></code></a>
 <a href="https://mysql.com/"><code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><code><img height="40" width="40" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png"></code></a>
 <a href="https://eclipse.org/"><code><img height="40" width="40" src="https://www.macupdate.com/images/icons512/11662.png"></code></a>
 <a href="https://cloud.google.com/"><code><img height="40" width="40" src="https://www.join.law/images/product/google/cloud-icon.png"></code></a>
 
@@ -22,7 +22,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code></a>
 <a href="https://programiz.com/c-programming"><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code></a>
 <a href="https://programiz.com/cpp-programming"><code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code></a>
-<a href="https://jupyter.org/"><code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code></a>
+<a href="https://jupyter.org/"><code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code></a>
 <a href="https://developer.android.com/studio/"><code><img height="40" width="40" src="https://www.bing.com/th?id=AMMS_4dda58ba996776e9808695cd828b236a&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&o=6&cdv=1&dpr=1.12&pid=16.1"></code></a>
 <a href="https://code.visualstudio.com"><code><img height="40" width="40" src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png"></code></a>
 <a href="https://flutter.dev"><code><img height="40" width="40" src="https://iconape.com/wp-content/png_logo_vector/flutter.png"></code></a>
@@ -34,6 +34,8 @@
 <a href="https://matplotlib.org"><code><img height="40" width="40" src="https://www.bing.com/th?id=OSK.bcae16e4d22506fefc9cbcb0b4d270ae&w=120&h=120&c=7&rs=1&qlt=80&o=6&dpr=1.12&pid=SANGAM"></code></a>
 <a href="https://pandas.pydata.org"><code><img height="40" width="40" src="https://th.bing.com/th/id/OIP.oyE3kok2cfWlq-WfLvZwRAHaEK?pid=ImgDet&rs=1"></code></a>
 <a href="https://numpy.org"><code><img height="40" width="40" src="https://user-images.githubusercontent.com/50221806/86498222-c4c12800-bd39-11ea-9709-160ad4ba63e1.png"></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><code><img height="40" width="40" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"></code></a>
+
 
 
 

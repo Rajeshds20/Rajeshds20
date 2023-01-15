@@ -6,6 +6,7 @@
 - 📫 How to reach me - dsrajesh71@gmail.com
 
 
+<br><br>
 **𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒**
 <br/>
 <br/>
@@ -37,31 +38,19 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><code><img height="40" width="40" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"></code></a>
 
 
-
+<br><br>
 
 # 📊 GitHub Stats:
 
-<h1 align="center">
-<img height="30"src="GIF/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="GIF/sparkling-stars.gif">
-</h1>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajeshds20&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-<!--   most used langs table -->
-    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshds20&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p>
-
-![Sagar's's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajeshds20&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
-
-<hr>
-
-![](https://github-readme-stats.vercel.app/api?username=rajeshds20&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajeshds20&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshds20&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Rajeshds20&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rajeshds20&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshds20&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=rajeshds20&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/rajeshds20)
 <br>
+<br>
+
 
 <!-- connect section -->
 <h1 align="center">

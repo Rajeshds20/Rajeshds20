@@ -16,6 +16,9 @@
 <a href="https://getbootstrap.com/"><code><img height="40" width="40" src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"></code></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><code><img height="40" width="40" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="40" width="40" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem-700x626.png"></code></a>
+<a href="https://nodejs.org/"><code><img height="40" width="40" src="https://1.bp.blogspot.com/-xH6iGgyR4bs/Xjbdug1pf2I/AAAAAAAAAQ0/Re3dhrs-cNso9C3Jq6EutOvlOmOQr0TVwCLcBGAsYHQ/s1600/node-js-512.png"></code></a>
+<a href="https://expressjs.com/"><code><img height="40" width="40" src="https://www.britwise.com/assets/imgs/meanstack-development/expressjslogo.png"></code></a>
+<a href="https://mongodb.com/"><code><img height="40" width="40" src="https://www.orangemantra.com/wp-content/uploads/2021/07/mongodb_logo.png"></code></a>
 <a href="https://firebase.google.com/"><code><img height="40" width="40" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png"></code></a>
 <a href="https://mysql.com/"><code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code></a>
 

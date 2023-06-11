@@ -32,8 +32,8 @@
 <a href="https://flutter.dev"><code><img height="40" width="40" src="https://iconape.com/wp-content/png_logo_vector/flutter.png"></code></a>
 <a href="https://firebase.google.com/"><code><img height="40" width="40" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png"></code></a>
 <a href="https://mysql.com/"><code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code></a>
-<br>
 
+<br>
 <a href="https://scikit-learn.org/"><code><img height="40" width="40" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code></a>
 <a href="https://tensorflow.org"><code><img height="40" width="40" src="https://cdn-images-1.medium.com/fit/c/72/72/1*iDQvKoz7gGHc6YXqvqWWZQ.png"></code></a>
 <a href="https://developer.android.com/"><code><img height="40" width="40" src="https://th.bing.com/th/id/R.29a2655fc28970d306e34a3a09639c5d?rik=AZ%2bypycrvk86Eg&riu=http%3a%2f%2fpngimg.com%2fuploads%2fandroid_logo%2fandroid_logo_PNG27.png&ehk=bfjboxpdYpOos3mkfOEcyBrCguPtJTdJ8%2f150RXZU%2b8%3d&risl=&pid=ImgRaw&r=0"></code></a>

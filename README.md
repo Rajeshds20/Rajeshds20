@@ -19,8 +19,6 @@
 <a href="https://nodejs.org/"><code><img height="40" width="40" src="https://1.bp.blogspot.com/-xH6iGgyR4bs/Xjbdug1pf2I/AAAAAAAAAQ0/Re3dhrs-cNso9C3Jq6EutOvlOmOQr0TVwCLcBGAsYHQ/s1600/node-js-512.png"></code></a>
 <a href="https://expressjs.com/"><code><img height="40" width="40" src="https://www.britwise.com/assets/imgs/meanstack-development/expressjslogo.png"></code></a>
 <a href="https://mongodb.com/"><code><img height="40" width="40" src="https://www.orangemantra.com/wp-content/uploads/2021/07/mongodb_logo.png"></code></a>
-<a href="https://firebase.google.com/"><code><img height="40" width="40" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png"></code></a>
-<a href="https://mysql.com/"><code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code></a>
 
 <br>
 <a href="https://java.com/"><code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code></a>
@@ -32,7 +30,8 @@
 <a href="https://developer.android.com/studio/"><code><img height="40" width="40" src="https://www.bing.com/th?id=AMMS_4dda58ba996776e9808695cd828b236a&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&o=6&cdv=1&dpr=1.12&pid=16.1"></code></a>
 <a href="https://code.visualstudio.com"><code><img height="40" width="40" src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png"></code></a>
 <a href="https://flutter.dev"><code><img height="40" width="40" src="https://iconape.com/wp-content/png_logo_vector/flutter.png"></code></a>
-
+<a href="https://firebase.google.com/"><code><img height="40" width="40" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png"></code></a>
+<a href="https://mysql.com/"><code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code></a>
 <br>
 
 <a href="https://scikit-learn.org/"><code><img height="40" width="40" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code></a>

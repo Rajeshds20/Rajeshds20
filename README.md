@@ -18,7 +18,7 @@
 <a href="https://reactjs.org/"><code><img height="40" width="40" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem-700x626.png"></code></a>
 <a href="https://nodejs.org/"><code><img height="40" width="40" src="https://1.bp.blogspot.com/-xH6iGgyR4bs/Xjbdug1pf2I/AAAAAAAAAQ0/Re3dhrs-cNso9C3Jq6EutOvlOmOQr0TVwCLcBGAsYHQ/s1600/node-js-512.png"></code></a>
 <a href="https://expressjs.com/"><code><img height="40" width="40" src="https://www.britwise.com/assets/imgs/meanstack-development/expressjslogo.png"></code></a>
-<a href="https://mongodb.com/"><code><img height="40" width="40" src="https://www.orangemantra.com/wp-content/uploads/2021/07/mongodb_logo.png"></code</a>
+<a href="https://mongodb.com/"><code><img height="40" width="40" src="https://www.orangemantra.com/wp-content/uploads/2021/07/mongodb_logo.png"></code></a>
 
 <br>
 <a href="https://java.com/"><code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code></a>

@@ -10,7 +10,7 @@
 **𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒**
 <br/>
 <br/>
-<a href="https://python.org/"><code><img height="40" width="40" src="https://sdlctraining.in/wp-content/uploads/2021/02/python-logo-980x980.png"></code></a>
+<a href="https://python.org/"><code><img height="40" width="40" src="https://www.python.org/static/img/python-logo@2x.png"></code></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><code><img height="40" width="40" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png"></code></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code></a>
 <a href="https://getbootstrap.com/"><code><img height="40" width="40" src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"></code></a>

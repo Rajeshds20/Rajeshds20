@@ -2,7 +2,7 @@
 - 🔰 Co-Lead and Web Pod Lead at Appc Community
 - 👀 I’m interested in Coding, Python and Development of Softwares for solving problems
 - 🌱 I’m currently learning Deveopment of Web and Mobile Applications
-- 🤝🏻 I’m looking to collaborate on Web And App Development, also interested in AI/ML
+- 🤝🏻 I’m looking to collaborate on Web And App Development for any innovative project contributions.
 - 📫 How to reach me - dsrajesh71@gmail.com
 
 

@@ -35,7 +35,7 @@
 <a href="https://scikit-learn.org/"><code><img height="40" width="40" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code></a>
 <a href="https://tensorflow.org"><code><img height="40" width="40" src="https://cdn-images-1.medium.com/fit/c/72/72/1*iDQvKoz7gGHc6YXqvqWWZQ.png"></code></a>
 <a href="https://developer.android.com/"><code><img height="40" width="40" src="https://th.bing.com/th/id/R.29a2655fc28970d306e34a3a09639c5d?rik=AZ%2bypycrvk86Eg&riu=http%3a%2f%2fpngimg.com%2fuploads%2fandroid_logo%2fandroid_logo_PNG27.png&ehk=bfjboxpdYpOos3mkfOEcyBrCguPtJTdJ8%2f150RXZU%2b8%3d&risl=&pid=ImgRaw&r=0"></code></a>
-<a href="https://developer.android.com/studio/"><code><img height="40" width="40" src="https://www.bing.com/th?id=AMMS_4dda58ba996776e9808695cd828b236a&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&o=6&cdv=1&dpr=1.12&pid=16.1"></code></a>
+<a href="https://developer.android.com/studio/"><code><img height="40" width="40" src="https://developer.android.com/static/studio/images/android-studio-stable.svg"></code></a>
 <a href="https://mysql.com"><code><img height="40" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code></a>
 <a href="https://matplotlib.org"><code><img height="40" width="40" src="https://www.bing.com/th?id=OSK.bcae16e4d22506fefc9cbcb0b4d270ae&w=120&h=120&c=7&rs=1&qlt=80&o=6&dpr=1.12&pid=SANGAM"></code></a>
 <a href="https://pandas.pydata.org"><code><img height="40" width="40" src="https://th.bing.com/th/id/OIP.oyE3kok2cfWlq-WfLvZwRAHaEK?pid=ImgDet&rs=1"></code></a>
